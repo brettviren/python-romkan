@@ -1,3 +1,7 @@
+This is a hacked version.  You are strongly recommended to ignore it and use upstream's
+
+https://github.com/soimort/python-romkan
+
 # python-romkan
 
 [![Build Status](https://api.travis-ci.org/soimort/python-romkan.png)](https://travis-ci.org/soimort/python-romkan) [![PyPI version](https://badge.fury.io/py/romkan.png)](http://badge.fury.io/py/romkan)
