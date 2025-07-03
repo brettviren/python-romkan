@@ -1,0 +1,20 @@
+[project]
+name = "romkan"
+version = "0.2.2"
+description = "A Romaji/Kana conversion library."
+requires-python = ">=3.1"
+readme = "README.md"
+authors = [
+    { name = "Mort Yao", email = "mort.yao@gmail.com" }
+]
+
+dependencies = [
+]
+
+[build-system]
+requires = ["setuptools", "wheel", "pip"]
+build-backend = "setuptools.build_meta"
+
+
+[tool.setuptools.packages.find]
+where = ["src"]

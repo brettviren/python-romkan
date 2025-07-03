@@ -6,3 +6,5 @@
 
 _*/
 .ninja_log
+*~
+*.pyc
